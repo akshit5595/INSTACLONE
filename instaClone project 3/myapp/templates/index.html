@@ -1,0 +1,89 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>InstaClone</title>
+    <style>
+            body
+                {
+                    background: url("http://www.garp.org/newmedia/featured/grey-robot.jpg");
+                    background-size : cover;
+                }
+            input
+                {
+                    border: 0;
+                    padding:10px;
+                    font-size:18px;
+                }
+            input[type = "submit"]
+                {
+                    background:red;
+                    color:white;
+                }
+            input[type = "text"]
+                {
+                    background: rgba(255, 255, 255, 0.5)
+                }
+            input[type = "password"]
+                {
+                    background: rgba(255, 255, 255, 0.5)
+                }
+            .area
+                {
+                    background: rgba(0, 128, 128, 0.1);
+                    padding: 50px;
+                    margin: 0 800px 0 200px;
+                }
+            .forlogin
+                {
+                    text-align: center;
+                    background:rgba(255, 255, 255, 0.2);
+                    padding: 20px;
+                    margin: 0 800px 0 200px;
+                }
+            .main
+                {
+                    color: rgba(0, 0, 128, 0.8);
+                    font-family: helvetica, sans-serif, Constantia;
+                    text-align:center;
+                    text-shadow: 2px 2px rgba(0, 0, 128, 0.2);
+                }
+    </style>
+</head>
+<body >
+	<div class="main">
+            <h1> Smart P2P Marketplace</h1>
+        <h2>{{today}}</h2>
+    </div>
+
+    <div class="area">
+        <form method="POST">
+
+            <div >
+                <input id="username" type="text" placeholder="Username" name="username" value= username >
+            </div><br>
+
+            <div>
+                <input id="name" type="text" placeholder="Enter your Name" name="name" value= name >
+            </div><br>
+
+            <div>
+                <input id="email" type="text" placeholder="Enter your Email ID" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" title="please enter a valid email id" name="email" value= email  >
+            </div><br>
+
+            <div>
+                <input id="password" type="password" placeholder="Enter Password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" name="password" value= password  >
+            </div><br>
+            <div>
+                <input type="submit" value="Sign Up">
+            </div>
+        </form>
+
+
+    </div><br><br>
+
+    <div class="forlogin"><h3>Already a user?</h3><a href="login/"><input type="submit" value="Login"></a> </div>
+</body>
+</html>
