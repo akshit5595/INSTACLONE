@@ -1,47 +1,31 @@
 from django import forms
-from models import UserModel,PostModel,LikeModel,CommentModel,UpvoteModel
+from models import UserModel, PostModel ,LikeModel ,CommentModel
 
 
 class SignUpForm(forms.ModelForm):
     class Meta:
         model = UserModel
-        fields = ['email', 'username', 'name', 'password']
-
+        fields = ["email", "username", "name", "password"]
 
 class LoginForm(forms.ModelForm):
     class Meta:
         model = UserModel
-        fields = ['username', 'password']
+        fields = ["username", "password"]
 
 class PostForm(forms.ModelForm):
     class Meta:
         model = PostModel
-        fields = ['image','caption']
+        fields=["image", "caption"]
 
 class LikeForm(forms.ModelForm):
+
     class Meta:
-        model= LikeModel
+        model = LikeModel
         fields=['post']
 
+
 class CommentForm(forms.ModelForm):
+
     class Meta:
-         model = CommentModel
-         fields=['comment_text','post']
-
-class CategoryForm(forms.ModelForm):
-    class Meta:
-        model = PostModel
-        fields =['category']
-
-
-class SearchUserForm(forms.ModelForm):
-    class Meta:
-        model = UserModel
-        fields = ['username']
-
-
-class UpvoteForm(forms.ModelForm):
-    class Meta:
-        model = UpvoteModel
-        fields = ['comment']
-
+        model = CommentModel
+        fields = ['comment_text', 'post']

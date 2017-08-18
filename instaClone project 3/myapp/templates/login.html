@@ -1,24 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
     <title>Login</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'styles.css' %}" >
+    <script type="text/javascript" src="{% static 'scripts.js' %}"></script>
+    <script>
+    {% if error %}
+        alert("{{error}}");
+    {% endif %}
+    </script>
 </head>
+
 <body>
-     <form method="post">
-         {% csrf_token %}
-      <div>
-          <label for="username">Username: </label>
-          <input id="username" type="text" name="username" value={{ username }}>
-      </div>
-
-      <div>
-          <label for="password">Password: </label>
-          <input id="password" type="password" name="password" value={{ password }}>
-      </div>
-
-      <input type="submit" value="Log In">
-
-    </form>
+    <div id="header"> Instagram</div>
+    <div id="heading1">Welcome to Instagram Log in to see photos and videos from your friends.</div>
+    <div align="center" style="margin-top:50px; font-size:20px">
+        <div style="border: 2px solid ; width:400px; padding:25px; background-color:white; color:#009688">
+            Don't have an account? <a href="/signup/">Sign up</a>
+        </div>
+    </div><br>
+    <div align="center">
+        <form name ="myform" method="post" id="form" onsubmit="return validateLoginForm()">
+            {% csrf_token %}
+            <label style="font-size:25px; float:left; margin:20px 35px; color:#00796B" > <b>Login</b> </label>
+            <input id="username" type="text" name="username" placeholder="Username" value={{ username }}><br>
+            <input id="password" type="password" name="password" placeholder="Password" value={{ password }}><br>
+            <input type="submit" class="button" value="Log In">
+        </form><br>
+    </div>
 </body>
+
 </html>

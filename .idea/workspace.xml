@@ -2,11 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ff1d8b-a573-4d33-b881-361d20389d1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/.idea/Project3.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/Project3/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/Project3/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/Project3/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/Project3/wsgi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/524897-the-best-laptops-of-2016-november-2016-update-asus-zenbook-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/7286b43b8feccf76b73c66bfad59262f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/7286b43b8feccf76b73c66bfad59262f_fggb5Qi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/7d5f8eaf221c2cdcc42d75764d4bf868.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/PSX_20160302_195948.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/PicsArt_01-18-08.51.03-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/PicsArt_03-12-02.56.55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/canon_0591c003_eos_rebel_t6i_dslr_1116101.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/canon_0591c003_eos_rebel_t6i_dslr_1116101_53M1IDR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/digital-slr-cameras-dslr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/hp-spectre-x360_beauty-100570598-orig.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/mens-watches.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/media/user_images/popup_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/data.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0002_auto_20170707_2213.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0003_auto_20170707_2219.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0004_auto_20170710_1900.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0005_postmodel_sessiontoken.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0006_auto_20170713_1218.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0007_likemodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0008_commentmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0009_remove_likemodel_comment_text.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0010_postmodel_category.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0011_auto_20170720_2039.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/templates/Logout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/templates/categories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/templates/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/sh.exe.stackdump" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/tester.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/instaClone project 3/views.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/db.sqlite3" afterPath="$PROJECT_DIR$/instaClone project 3/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/manage.py" afterPath="$PROJECT_DIR$/instaClone project 3/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/admin.py" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/apps.py" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/apps.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/forms.py" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/migrations/0001_initial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/models.py" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/templates/feed.html" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/templates/feed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/templates/index.html" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/templates/login.html" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/templates/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/templates/post.html" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/templates/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/templates/success.html" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/templates/success.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/tests.py" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instaClone project 3/myapp/views.py" afterPath="$PROJECT_DIR$/instaClone project 3/myapp/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,6 +68,9 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/instaclone$views.coverage" NAME="views Coverage Results" MODIFIED="1501234013552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/instaClone-master/instaclone/myapp" />
     <SUITE FILE_PATH="coverage/instaclone$manage.coverage" NAME="manage Coverage Results" MODIFIED="1501234032291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/instaClone-master/instaclone" />
+    <SUITE FILE_PATH="coverage/INstaclone$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1503053941864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/instaClone project 3" />
+    <SUITE FILE_PATH="coverage/INstaclone$views__1_.coverage" NAME="views (1) Coverage Results" MODIFIED="1502213453336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/instaClone project 3/myapp" />
+    <SUITE FILE_PATH="coverage/INstaclone$models.coverage" NAME="models Coverage Results" MODIFIED="1502213469660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/instaClone project 3/myapp" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -30,7 +83,82 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/apps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="85" column="2" lean-forward="false" selection-start-line="85" selection-start-column="2" selection-end-line="85" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/instaClone project 3/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +182,11 @@
         <option value="$PROJECT_DIR$/myapp/templates/feed.html" />
         <option value="$PROJECT_DIR$/myapp/templates/success.html" />
         <option value="$PROJECT_DIR$/instaClone-master/myapp/templates/index.html" />
+        <option value="$PROJECT_DIR$/instaClone project 3/myapp/models.py" />
+        <option value="$PROJECT_DIR$/instaClone project 3/Project3/settings.py" />
+        <option value="$PROJECT_DIR$/instaClone project 3/myapp/views.py" />
+        <option value="$PROJECT_DIR$/instaClone project 3/Project3/urls.py" />
+        <option value="$PROJECT_DIR$/instaClone project 3/myapp/templates/index.html" />
       </list>
     </option>
   </component>
@@ -87,8 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -107,20 +238,22 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/shefali" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\instaclone\instaClone project 3\myapp" />
       <recent name="C:\instaclone\instaClone-master" />
       <recent name="C:\crack" />
       <recent name="D:\Akshit" />
       <recent name="D:\" />
-      <recent name="C:\instaclone" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -135,30 +268,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="Python.manage (1)">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/instaclone/myapp/templates/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="success.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/instaclone/myapp/templates/success.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/instaClone-master/instaclone/myapp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="instaclone" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/instaClone-master/instaclone/myapp/views.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -175,6 +286,63 @@
       <module name="instaclone" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/instaClone-master/instaclone/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/instaClone project 3/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="INstaclone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/instaClone project 3/myapp/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/instaClone project 3/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="INstaclone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/instaClone project 3/myapp/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/instaClone project 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="INstaclone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/instaClone project 3/manage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,18 +496,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.success.html" />
-      <item index="2" class="java.lang.String" itemvalue="Python.views" />
-      <item index="3" class="java.lang.String" itemvalue="Python.manage" />
+      <item index="1" class="java.lang.String" itemvalue="Python.manage" />
+      <item index="2" class="java.lang.String" itemvalue="Python.models" />
+      <item index="3" class="java.lang.String" itemvalue="Python.views (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.manage (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="Python.manage" />
-        <item index="2" class="java.lang.String" itemvalue="Python.views" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.success.html" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.manage (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.models" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="3" class="java.lang.String" itemvalue="Python.views (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.manage" />
       </list>
     </recent_temporary>
   </component>
@@ -368,17 +538,17 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15745501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3862468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970026" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36608344" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28936744" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28936744" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939634" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -402,91 +572,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/user_images/IMG_20160201_131729.jpg" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/migrations/0004_postmodel.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/migrations/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/admin.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/tests.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/views.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/user_images/Copy_of_SDC10014.JPG" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/user_images/Copy_of_SDC10015.JPG" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/manage.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/models.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/forms.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/apps.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/migrations/0006_commentmodel.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/migrations/0005_likemodel.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/migrations/0003_sessiontoken.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/migrations/0002_auto_20170717_1356.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/myapp/migrations/0001_initial.py" />
     <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/instaClone/__init__.py" />
     <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/instaClone/wsgi.py" />
     <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/instaClone/urls.py" />
     <entry file="file://$PROJECT_DIR$/instaClone-master/instaclone/instaClone/settings.py" />
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/Project3/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/Project3/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/Project3/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/Project3/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/tester.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/.idea/Project3.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/PSX_20160302_195948.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -507,11 +596,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/hp-spectre-x360_beauty-100570598-orig.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/digital-slr-cameras-dslr.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -522,19 +606,22 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/canon_0591c003_eos_rebel_t6i_dslr_1116101.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/7286b43b8feccf76b73c66bfad59262f_fggb5Qi.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/524897-the-best-laptops-of-2016-november-2016-update-asus-zenbook-3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/feed.html">
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -548,19 +635,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/canon_0591c003_eos_rebel_t6i_dslr_1116101.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/.idea/modules.xml">
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/manage.py">
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/migrations/0004_auto_20170710_1900.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/migrations/0003_auto_20170707_2219.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/migrations/0007_likemodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/7286b43b8feccf76b73c66bfad59262f.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/7d5f8eaf221c2cdcc42d75764d4bf868.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/.idea/Project3.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1632">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/categories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/Logout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/feed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/Project3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/Project3/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/Project3/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -581,26 +771,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/7286b43b8feccf76b73c66bfad59262f_fggb5Qi.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/7286b43b8feccf76b73c66bfad59262f.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/categories.html">
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/tester.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/7d5f8eaf221c2cdcc42d75764d4bf868.jpg">
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/Project3/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/migrations/0002_auto_20170707_2213.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/media/user_images/hp-spectre-x360_beauty-100570598-orig.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/myapp/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="85" column="2" lean-forward="false" selection-start-line="85" selection-start-column="2" selection-end-line="85" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instaClone project 3/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
